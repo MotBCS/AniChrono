@@ -1,2 +1,1 @@
-# AniChrono
  Anime Tracker Application
